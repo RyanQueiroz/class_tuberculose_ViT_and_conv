@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+opencv-python-headless
+imageio
+scikit-image
+itertools 
+shutil
+pathlib  
+tensorflow
+keras
+scikit-learn
+warnings
